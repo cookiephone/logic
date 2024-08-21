@@ -1,1 +1,0 @@
-/home/oogie/repos/logics-rs/target/debug/libcore.rlib: /home/oogie/repos/logics-rs/core/src/ast.rs /home/oogie/repos/logics-rs/core/src/lib.rs /home/oogie/repos/logics-rs/core/src/rewrite.rs /home/oogie/repos/logics-rs/core/src/sat.rs /home/oogie/repos/logics-rs/procmacro/src/lib.rs
